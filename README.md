@@ -1,7 +1,7 @@
 # everyday
 
 
-相关学习链接：
+github相关学习链接：
 
 https://youngxhui.top/categories/git/
 
